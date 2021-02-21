@@ -3,7 +3,8 @@
 
 # My Paper Title
 
-This repository is the official implementation of paper [A Complex Systems Approach To Feature Extraction for Chaotic Behavior Recognition]. 
+This repository is the official implementation of paper 
+[A. Pourafzal and A. Fereidunian, "A Complex Systems Approach To Feature Extraction For Chaotic Behavior Recognition," 2020 6th Iranian Conference on Signal Processing and Intelligent Systems (ICSPIS), Mashhad, Iran, 2020, pp. 1-6, doi: 10.1109/ICSPIS51611.2020.9349551]. 
 
 ## Requirements
 
